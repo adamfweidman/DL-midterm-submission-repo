@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local outputs
+outputs/
+checkpoints/
+logs/
+submission.csv
+
+# Caches
+.pytest_cache/
+.ruff_cache/
+
+# Environment files
+.env
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
