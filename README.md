@@ -42,6 +42,12 @@ python scripts/generate_submission.py \
   --max-new-tokens 2048
 ```
 
+## Weights
+
+Trained LoRA adapter weights:
+
+https://drive.google.com/file/d/18TrC2NQUK6-GUSPQNL1bvZFx4CLKt035/view?usp=drive_link
+
 ## Notes
 
 - The Kaggle notebook is inference-only. Training happens offline.
